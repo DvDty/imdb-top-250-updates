@@ -1,0 +1,15 @@
+{
+    "name": "dvdty/imdb-top-250-updates",
+    "authors": [
+        {
+            "name": "DvDty",
+            "email": "dvdtygc@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "symfony/dom-crawler": "^5.0",
+        "symfony/css-selector": "^5.0",
+        "ext-dom": "*"
+    }
+}
